@@ -2,4 +2,4 @@
 [] 🐶 Bury a shoe in the backyard
 [x] 😺 Sit on the keyboard
 [] 🐶 Chase tail in a circle
-[] 😺 Stare into nothing and freak everyone out
+[x] 😺 Stare into nothing and freak everyone out
